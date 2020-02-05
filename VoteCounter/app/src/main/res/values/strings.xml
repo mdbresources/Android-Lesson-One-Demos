@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vote Counter</string>
+
+    <string name="candidate_label">%1s\n%2d Votes | %3.2f%%</string>
+</resources>
